@@ -17,7 +17,7 @@ https://github.com/walaareafaee/frontend-nanodegree-arcade-game
 
 ## Running the game
 
-1. Download the project as a zip file of clone it to your local machine.
-2. Open the `index.html`
-3. Use the arrow keys to control your character. Reach the water across the street to win the game.
+1. Download the project as a zip file of clone it to your computer
+2. Open the `index.html` in browser
+3. Use the arrow keys to move your character. Try reach water to win the game.
 
